@@ -1,0 +1,12 @@
+p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    text-size-adjust: 20px;
+}
+
+.filo{
+    height: 200px;
+    width: 200px;
+    background-color: antiquewhite;
+    
+}
